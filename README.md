@@ -37,5 +37,3 @@ Currently looking for internship or junior backend developer opportunities.
 - Email: nazanin.rahgozarw@gmail.com
 ##
 ⭐ Always happy to connect, collaborate, and learn more!
-##
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naznighty&show_icons=true)
