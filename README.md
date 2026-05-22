@@ -1,16 +1,37 @@
-## Hi there 👋
+# Nazanin Rahgozar
 
-<!--
-**Naznighty/Naznighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Developer focused on Python & Django.
 
-Here are some ideas to get you started:
+Computer Science student passionate about backend development, REST APIs, and building scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Backend
+- Python
+- Django
+- Django REST Framework
+- REST API
+
+### Database
+- MySQL
+- SQLite
+
+### Frontend
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+
+## 📚 Currently Learning
+- Docker
+- PostgreSQL
+- Software Architecture
+- Full Stack Development
+
+## 🎯 Goals
+Currently looking for internship or junior backend developer opportunities.
+
+## 📫 Contact
+- Email: nazanin.rahgozarw@gmail.com
