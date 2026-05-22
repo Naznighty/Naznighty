@@ -35,3 +35,5 @@ Currently looking for internship or junior backend developer opportunities.
 
 ## 📫 Contact
 - Email: nazanin.rahgozarw@gmail.com
+##
+⭐ Always happy to connect, collaborate, and learn more!
