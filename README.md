@@ -26,7 +26,6 @@ Computer Science student passionate about backend development, REST APIs, and bu
 
 ## 📚 Currently Learning
 - Docker
-- PostgreSQL
 - Software Architecture
 - Full Stack Development
 
