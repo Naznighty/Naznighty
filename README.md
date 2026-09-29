@@ -36,6 +36,7 @@ I'm actively seeking a junior position as a **Backend Developer** or **Frontend 
 
 - Email: nazanin.rahgozarw@gmail.com
 - GitHub: [@Naznighty](https://github.com/Naznighty)
+- LinkdIn: [Nazanin Rahgozar](www.linkedin.com/in/nazanin-rahgozar)
 
 ⭐ *Always happy to connect, collaborate, and learn more!*
 
