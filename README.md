@@ -1,9 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ffd1dc,100:e57fa5&text=Nazanin%20Rahgozar&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20%26%20Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E57FA5&center=true&vCenter=true&width=520&height=50&lines=Python+%26+Django+Developer;RESTful+API+Design;Computer+Engineering+Student;Open+to+Junior+Roles" />
+  <img width="100%" src="assets/banner.svg" />
 </p>
 
 **Junior Backend Developer | Python & Django | Frontend Enthusiast**
@@ -44,5 +40,5 @@ I'm actively seeking a junior position as a **Backend Developer** or **Frontend 
 ⭐ *Always happy to connect, collaborate, and learn more!*
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e57fa5,100:ffd1dc&section=footer" />
+  <img width="100%" src="assets/footer.svg" />
 </p>
