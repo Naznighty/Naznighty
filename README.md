@@ -1,67 +1,48 @@
-<!-- Header: animated wave, black -> soft pink -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,100:f4a6c0&text=Nazanin%20Rahgozar&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F4A6C0&background=0D0D0D&center=true&vCenter=true&width=520&height=50&lines=Python+%26+Django+Developer;RESTful+API+Design;Computer+Engineering+Student;Learning+Frontend+Every+Day" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ffd1dc,100:e57fa5&text=Nazanin%20Rahgozar&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20%26%20Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=f4a6c0&labelColor=0d0d0d&color=f4a6c0" />
-  <img src="https://img.shields.io/badge/Django-0d0d0d?style=for-the-badge&logo=django&logoColor=f4a6c0&labelColor=0d0d0d&color=f4a6c0" />
-  <img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=f4a6c0&labelColor=0d0d0d&color=f4a6c0" />
-  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=f4a6c0&labelColor=0d0d0d&color=f4a6c0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E57FA5&center=true&vCenter=true&width=520&height=50&lines=Python+%26+Django+Developer;RESTful+API+Design;Computer+Engineering+Student;Open+to+Junior+Roles" />
 </p>
 
-<br>
+**Junior Backend Developer | Python & Django | Frontend Enthusiast**
 
-<!-- Table -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center"><b>💗 About Me</b></td>
-    <td width="50%" align="center"><b>🖤 Tech Stack</b></td>
-  </tr>
-  <tr>
-    <td valign="top">
+Computer Engineering student who enjoys building clean, scalable web applications. I design and develop REST APIs on the backend and craft responsive, user-friendly interfaces on the frontend, so I can work comfortably across the whole stack.
 
-- 🎓 Computer Engineering student
-- 💻 Junior backend developer
-- 🌱 Building frontend skills (HTML, CSS, JS)
-- 🛒 Working on NovaShop (Django e-commerce)
+## 🚀 Tech Stack
 
-</td>
-    <td valign="top" align="center">
+**Backend:** Python, Django, Django REST Framework, RESTful API design, ORM, MVC architecture
 
-<img src="https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=f4a6c0&color=f4a6c0" />
-<img src="https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=f4a6c0&color=f4a6c0" />
-<img src="https://img.shields.io/badge/DRF-0d0d0d?style=flat-square&logo=django&logoColor=f4a6c0&color=f4a6c0" />
-<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=f4a6c0&color=f4a6c0" />
-<img src="https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=f4a6c0&color=f4a6c0" />
-<img src="https://img.shields.io/badge/C%23-0d0d0d?style=flat-square&logo=csharp&logoColor=f4a6c0&color=f4a6c0" />
-<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=f4a6c0&color=f4a6c0" />
-<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=f4a6c0&color=f4a6c0" />
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=f4a6c0&color=f4a6c0" />
-<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=f4a6c0&color=f4a6c0" />
+**Database:** MySQL, SQLite
 
-</td>
-  </tr>
-</table>
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), responsive design, Flexbox & Grid, DOM manipulation
 
-<br>
+**Tools:** Git, GitHub
 
-<!-- Stats -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Naznighty&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=f4a6c0&text_color=e8e8e8&icon_color=f4a6c0&border_color=f4a6c0&ring_color=f4a6c0" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naznighty&layout=compact&bg_color=0d0d0d&title_color=f4a6c0&text_color=e8e8e8&border_color=f4a6c0" />
-</p>
+## 💻 What I Build
+
+- **Backend:** Django-based e-commerce backend with RESTful APIs and database-driven business logic
+- **Frontend:** Responsive landing pages and interactive vanilla JavaScript projects
+
+## 📚 Currently Learning
+
+- Docker
+- Software Architecture
+- Full Stack Development
+- Advanced JavaScript and modern frontend practices
+
+## 🎯 Career Goals
+
+I'm actively seeking a junior position as a **Backend Developer** or **Frontend Developer**. I'm a fast learner and a strong team player, eager to grow by solving real-world problems and contributing to meaningful products.
+
+## 📫 Contact
+
+- Email: nazanin.rahgozarw@gmail.com
+- GitHub: [@Naznighty](https://github.com/Naznighty)
+
+⭐ *Always happy to connect, collaborate, and learn more!*
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Naznighty&background=0D0D0D&stroke=F4A6C0&ring=F4A6C0&fire=F4A6C0&currStreakLabel=F4A6C0&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=888888&border=F4A6C0" />
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f4a6c0,100:0d0d0d&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e57fa5,100:ffd1dc&section=footer" />
 </p>
