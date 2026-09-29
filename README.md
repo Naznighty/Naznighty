@@ -4,7 +4,7 @@
 
 **Junior Backend Developer | Python & Django | Frontend Enthusiast**
 
-Computer Engineering student who enjoys building clean, scalable web applications. I design and develop REST APIs on the backend and craft responsive, user-friendly interfaces on the frontend, so I can work comfortably across the whole stack.
+Computer Science student who enjoys building clean, scalable web applications. I design and develop REST APIs on the backend and craft responsive, user-friendly interfaces on the frontend, so I can work comfortably across the whole stack.
 
 ## 🚀 Tech Stack
 
